@@ -76,23 +76,23 @@ global.limitawal = {
 global.readMore = readMore
 global.gcname = 'INDONESIA TRACKER'//nama group kalian
 global.author = '𝐵𝐴𝐺𝑈𝑆-𝑋𝑌𝑍' //ganti aja cuyyy
-global.namebot = '​𝗭𝗶𝗿𝗼𝗕𝗼𝘁𝘇-𝗠𝗗' //nama bot luh
+global.namebot = '𝗞𝘂𝗿𝘂𝗺𝗶𝗕𝗼𝘁𝘇-𝗠𝗗' //nama bot luh
 global.wm = '©𝐼𝑁𝐷𝑂𝑁𝐸𝑆𝐼𝐴 𝑇𝑅𝐴𝐶𝐾𝐸𝑅 ' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
 global.wm = '𝐵𝐴𝐺𝑈𝑆-𝑋𝑌𝑍' //wm nyaa kocak
 global.watermark = wm //bebas
 global.wm2 = '𝐵𝐴𝐺𝑈𝑆-𝑋𝑌𝑍' //ganti ajaa
-global.wm3 = '𝑌𝑎𝑒𝑀𝑖𝑘𝑜•𝑀𝐷' // ganti jugaa
+global.wm3 = '𝗞𝘂𝗿𝘂𝗺𝗶𝗕𝗼𝘁𝘇-𝗠𝗗 ' // ganti jugaa
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `𝑌𝑎𝑒𝑀𝑖𝑘𝑜•𝑀𝐷 | 𝑌𝑎𝑒𝑀𝑖𝑘𝑜•𝑀𝐷` //ganti aja
+global.titlebot = `𝗞𝘂𝗿𝘂𝗺𝗶𝗕𝗼𝘁𝘇-𝗠𝗗  | BagusXyz` //ganti aja
 global.stickpack = '𝐵𝐴𝐺𝑈𝑆-𝑋𝑌𝑍' //ganti 
-global.stickauth = `𝑌𝑎𝑒𝑀𝑖𝑘𝑜•𝑀𝐷` //gantii 
+global.stickauth = `𝗞𝘂𝗿𝘂𝗺𝗶𝗕𝗼𝘁𝘇-𝗠𝗗 ` //gantii 
 global.week = `${week} ${date}` //Gak usah
 global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= '𝐵𝐴𝐺𝑈𝑆-𝑋𝑌𝑍' //ganti 
-global.nameown2 = '𝑌𝑎𝑒𝑀𝑖𝑘𝑜•𝑀𝐷' //ganti 
+global.nameown2 = '𝗞𝘂𝗿𝘂𝗺𝗶𝗕𝗼𝘁𝘇-𝗠𝗗 ' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
 global.lynk = 'https://chat.whatsapp.com/BYvwg2qgLvr3T6JRzBzLPp'//ganti jadi link gc luh
@@ -559,10 +559,10 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://www.instagram.com/gndl.kemaki"
 global.dtc = '???? ?????'
-global.phn = '0812-2807-0013'
-global.ultahowner = 'JULI 12 2023' //ultah luh 😭
+global.phn = '0895700121662'
+global.ultahowner = 'AGUSTUS 19 2023' //ultah luh 😭
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
